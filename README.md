@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/saketkumar28/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,4 +29,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
