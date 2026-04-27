@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/saketkumar28/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saketkumar28/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/saketkumar28/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
