@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/saketkumar28/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/saketkumar28/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/saketkumar28/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/saketkumar28/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/saketkumar28/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/saketkumar28/DSA/tree/main/0788-rotated-digits/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
