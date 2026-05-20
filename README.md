@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/saketkumar28/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/saketkumar28/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [1518-water-bottles](https://github.com/saketkumar28/DSA/tree/main/1518-water-bottles/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/saketkumar28/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1518-water-bottles](https://github.com/saketkumar28/DSA/tree/main/1518-water-bottles/) | Easy |
 <!---LeetCode Topics End-->
