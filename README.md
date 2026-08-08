@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/saketkumar28/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/saketkumar28/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/saketkumar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/saketkumar28/DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saketkumar28/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/saketkumar28/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/saketkumar28/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/saketkumar28/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/saketkumar28/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/saketkumar28/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saketkumar28/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
