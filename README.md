@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/saketkumar28/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0055-jump-game](https://github.com/saketkumar28/DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saketkumar28/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/saketkumar28/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/saketkumar28/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
