@@ -10,8 +10,10 @@ public:
             if (ans.empty() || ans.back()[1]<start){
                 ans.push_back(intervals[i]);
             }
+            else{
             end=max(end,ans.back()[1]);
             ans.back()[1]=end;
+            }
         }
         return ans;
     }
