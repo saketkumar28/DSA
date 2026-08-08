@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/saketkumar28/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/saketkumar28/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saketkumar28/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/saketkumar28/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/saketkumar28/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/saketkumar28/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saketkumar28/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
@@ -113,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/saketkumar28/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/saketkumar28/DSA/tree/main/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
