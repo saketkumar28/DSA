@@ -10,13 +10,12 @@ public:
             st.insert(nums[i]);
         }
         for (auto it:st){
-            int out=it;
-            if (st.find(out-1)!=st.end()){
+            if (st.find(it-1)!=st.end()){
                  continue;
             }
             else{
-                while(st.find(out+1)!=st.end()){
-                    out=out+1;
+                while(st.find(it+1)!=st.end()){
+                    it=it+1;
                     cnt++;
                 }
             }
