@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0577-employee-bonus](https://github.com/saketkumar28/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/saketkumar28/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/saketkumar28/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/saketkumar28/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
