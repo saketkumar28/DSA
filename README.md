@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/saketkumar28/DSA/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/saketkumar28/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/saketkumar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -229,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/saketkumar28/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/saketkumar28/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/saketkumar28/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/saketkumar28/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
