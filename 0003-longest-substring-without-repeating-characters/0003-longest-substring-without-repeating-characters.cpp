@@ -5,7 +5,7 @@ public:
         int i=0;
         int j=0;
         int ans=INT_MIN;
-        map<int,int>mpp;
+        map<char,int>mpp;
         while(j<n){
         mpp[s[j]]++;
            while((j-i+1)>mpp.size()){
