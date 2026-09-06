@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/saketkumar28/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/saketkumar28/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/saketkumar28/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/saketkumar28/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/saketkumar28/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saketkumar28/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/saketkumar28/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/saketkumar28/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/saketkumar28/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/saketkumar28/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/saketkumar28/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/saketkumar28/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/saketkumar28/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/saketkumar28/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
