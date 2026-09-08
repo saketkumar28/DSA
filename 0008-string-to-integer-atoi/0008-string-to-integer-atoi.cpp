@@ -22,7 +22,6 @@ public:
             i++;
         }
         if (flag==1) num=num*(-1);
-        if (flag==1 && num<=INT_MIN) return INT_MIN;
         return (int)num;
 
     }
