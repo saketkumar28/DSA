@@ -1,21 +1,23 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        int n=g.size();
-        int m=s.size();
+        int m=g.size();
+        int n=s.size();
+        int ans=0;
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         int i=0;
         int j=0;
-        while(j<m && i<n){
-            if (s[j]>=g[i]){
-                j++;
-                i++;
+        while(i<n && j<m){
+            if (s[i]>=g[j]){
+              ans++; 
+              j++;
+              i++;
             }
             else{
-                j++;
+                i++;
             }
         }
-        return i;
+        return ans;
     }
 };
