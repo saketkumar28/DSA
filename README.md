@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/saketkumar28/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/saketkumar28/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/saketkumar28/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/saketkumar28/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
