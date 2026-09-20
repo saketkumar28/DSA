@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/saketkumar28/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/saketkumar28/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/saketkumar28/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1907-count-salary-categories](https://github.com/saketkumar28/DSA/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saketkumar28/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
