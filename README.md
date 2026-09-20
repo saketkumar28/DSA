@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/saketkumar28/DSA/tree/main/0176-second-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/saketkumar28/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/saketkumar28/DSA/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/saketkumar28/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/saketkumar28/DSA/tree/main/0584-find-customer-referee/) | Easy |
