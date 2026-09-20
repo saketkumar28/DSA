@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/saketkumar28/DSA/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/saketkumar28/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/saketkumar28/DSA/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/saketkumar28/DSA/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/saketkumar28/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/saketkumar28/DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/saketkumar28/DSA/tree/main/0620-not-boring-movies/) | Easy |
