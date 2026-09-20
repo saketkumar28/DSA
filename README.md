@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/saketkumar28/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/saketkumar28/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/saketkumar28/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/saketkumar28/DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/saketkumar28/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/saketkumar28/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/saketkumar28/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
