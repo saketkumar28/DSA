@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select a1.machine_id,round(((select sum(a2.timestamp) from activity a2 where a2.activity_type='end' and a1.machine_id=a2.machine_id)-(select sum(timestamp) from activity a3 where activity_type='start' and a3.machine_id=a1.machine_id))/count(distinct a1.process_id),3) as processing_time from Activity a1 group by a1.machine_id;
