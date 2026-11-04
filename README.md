@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/saketkumar28/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/saketkumar28/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/saketkumar28/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/saketkumar28/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/saketkumar28/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/saketkumar28/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/saketkumar28/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/saketkumar28/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
