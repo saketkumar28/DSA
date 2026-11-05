@@ -153,12 +153,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/saketkumar28/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/saketkumar28/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/saketkumar28/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saketkumar28/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/saketkumar28/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saketkumar28/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/saketkumar28/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saketkumar28/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
