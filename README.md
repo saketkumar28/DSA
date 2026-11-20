@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/saketkumar28/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0860-lemonade-change](https://github.com/saketkumar28/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/saketkumar28/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saketkumar28/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saketkumar28/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/saketkumar28/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/saketkumar28/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
